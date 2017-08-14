@@ -1,11 +1,11 @@
 # The following links are resources for DevMountain Grads:
 
-```## Learning Resources:
+### Learning Resources:
 [DevMountain Lecture Videos](https://docs.google.com/spreadsheets/d/1p9EzVLEFGf5Q40oL4gWrRyfPO_DTKO3VIDOT3ZQFvtI/edit#gid=1832617554)
 
 [General DevMountain Resource Page](https://resources.devmountain.com/#/)
 
-## Techniques:
+### Techniques:
 [19+ JS Shorthand Techniques](https://www.sitepoint.com/shorthand-javascript-techniques/)
 
 [CSS Clipping and masking](https://css-tricks.com/clipping-masking-css/)
@@ -16,7 +16,7 @@
 
 [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
-## Hone your skills:
+### Hone your skills:
 [JS in 30 days](https://javascript30.com/)
 
 [Practice CSS Selectors](http://flukeout.github.io/)
@@ -25,7 +25,7 @@
 
 [Flex-Box](http://flexboxzombies.com/courses/)
 
-## Job Resources:
+### Job Resources:
 [Interview Prep Questions](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
 
 [Meetups](https://docs.google.com/spreadsheets/d/1GvKQDjzwflyxBbsItf_ST-VdhYSKQcnOdLYoULxdhgY/edit#gid=0)
@@ -42,7 +42,7 @@
 
 [Github jobs board](https://jobs.github.com/)
 
-## General Resources:
+### General Resources:
 [Unsplash](https://unsplash.com/)
 
 [JQuery cheat sheet](https://oscarotero.com/jquery/)
@@ -61,10 +61,9 @@
 
 [You might not need Jquery](http://youmightnotneedjquery.com/)
 
-## Be Inspired:
+### Be Inspired:
 [Self-Building website](http://strml.net/)
 
 [Codrops](https://tympanus.net/codrops/)
 
 [Codepin](https://codepen.io/)
-```
