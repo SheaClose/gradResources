@@ -21,12 +21,58 @@
 
 [JS in 30 days](https://javascript30.com/)
 
-### Job Search:
+[Practice CSS Selectors](http://flukeout.github.io/)
+
+[SQL](https://pgexercises.com/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
+
+[Flex-Box](http://flexboxzombies.com/courses/)
+
+### Job Resources:
+
+[Interview Prep Questions](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
+
 [Meetups](https://docs.google.com/spreadsheets/d/1GvKQDjzwflyxBbsItf_ST-VdhYSKQcnOdLYoULxdhgY/edit#gid=0)
+
+[Top 25 job search sites](https://skillcrush.com/2015/07/14/job-sites-to-find-your-first-developer-job/)
+
+[Launchdfw job postings](http://launchdfw.com/jobs/)
+
+[Angels List](https://angel.co/jobs)
+
+[Hired](https://hired.com/)
+
+[Stack Overflow job board](https://stackoverflow.com/jobs)
+
+[Github jobs board](https://jobs.github.com/)
+
+
+
+
 
 ### General Resources:
 [Unsplash](https://unsplash.com/)
 
+[JQuery cheat sheet](https://oscarotero.com/jquery/)
 
-## Be Inspired:
+[Bootstrap cheat sheet](http://www.brandx.net/support/websites/bootstrap/bootstrap-cheat-sheet.html)
+
+[Git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+
+[Fake data to play with](https://mockaroo.com/)
+
+[See what your website looks like rendered among all major browsers](http://browsershots.org/)
+
+[Color scheme generator](https://coolors.co/)
+
+[Hipster Ipsum, for when Latin just won't do](https://hipsum.co/?paras=4&type=hipster-centric)
+
+[You might not need Jquery](http://youmightnotneedjquery.com/)
+
+
+
+### Be Inspired:
 [Self-Building website](http://strml.net/)
+
+[Codrops](https://tympanus.net/codrops/)
+
+[Codepin](https://codepen.io/)
